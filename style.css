@@ -12,9 +12,9 @@ header {
   text-align: center;
   text-size-adjust: 80%;
 }
-#featured-property > p {
+p#featured-property {
+  text-align:center;
   width: 800px;
-  text-align: center;
 }
 #details div {
   float: left;
